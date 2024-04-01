@@ -1,0 +1,15 @@
+{
+    "url": "https://joyrejoy.com/",
+    "env": {
+        "url": "https://joyrejoy.com/",
+        "credentials": {
+            "username": "abcd",
+            "password": "abcd@1234"
+        },
+        "locators": {
+            "username_textbox": "Email Address or Phone Number*",
+            "password_textbox": "",
+            "continueBtn": "Continue"
+        }
+    }
+}
